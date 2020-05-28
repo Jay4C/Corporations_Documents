@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2018-10-04" view-index="0" gantt-divider-location="771" resource-divider-location="300" version="2.8.7" locale="en_US">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-05-20" view-index="0" gantt-divider-location="771" resource-divider-location="300" version="2.8.11" locale="fr">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
-        <field id="tpd3" name="Name" width="518" order="0"/>
-        <field id="tpd4" name="Begin date" width="115" order="1"/>
-        <field id="tpd5" name="End date" width="134" order="2"/>
+        <field id="tpd3" name="Nom" width="518" order="0"/>
+        <field id="tpd4" name="Date de début" width="115" order="1"/>
+        <field id="tpd5" name="Date de fin" width="134" order="2"/>
         <option id="color.recent"><![CDATA[#f4f4f4 #33ff33 #ff3333]]></option>
     </view>
     <view id="resource-table">
-        <field id="0" name="Name" width="210" order="0"/>
-        <field id="1" name="Default role" width="86" order="1"/>
+        <field id="0" name="Nom" width="210" order="0"/>
+        <field id="1" name="Rôle par défaut" width="86" order="1"/>
     </view>
     <!-- -->
     <calendars>
@@ -159,6 +159,35 @@
             <task id="430" name="Copy_Extract data fom UAE Dubai" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
             <task id="431" name="Copy_Extract data from UAE RAK" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
         </task>
+        <task id="294" name="Describe each step to open a company in each tax haven" color="#8cb6ce" meeting="false" start="2018-05-10" duration="530" complete="96" thirdDate="2018-05-10" thirdDate-constraint="0" expand="false">
+            <task id="567" name="Extract data from Andorra" color="#8cb6ce" meeting="false" start="2020-05-20" duration="1" complete="0" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="568" name="Extract data from Bahamas" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="569" name="Copy_Copy_Copy_Extract data from Barbados" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="570" name="Copy_Copy_Copy_Extract data from Belize" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="571" name="Copy_Copy_Copy_Extract data from Bermuda" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="572" name="Copy_Copy_Copy_Extract data from BVI" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="573" name="Copy_Copy_Copy_Extract data from Cayman Islands" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="574" name="Copy_Copy_Copy_Extract data from Cyprus" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="575" name="Copy_Copy_Copy_Extract data from Egypt" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="576" name="Copy_Copy_Copy_Extract data from Gilbraltar" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="577" name="Copy_Copy_Copy_Extract data from Guernsey" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="578" name="Copy_Copy_Copy_Extract data from Hong Kong" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="579" name="Copy_Copy_Copy_Extract data from Ireland" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="580" name="Copy_Copy_Copy_Extract data from Isle of Man" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="581" name="Copy_Copy_Copy_Extract data from Jersey" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="582" name="Copy_Copy_Copy_Extract data from Liechtenstein" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="583" name="Copy_Copy_Copy_Extract data from Lithuania" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="584" name="Copy_Copy_Copy_Extract data from Luxembourg" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="585" name="Copy_Copy_Copy_Extract data from Malta" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="586" name="Copy_Copy_Copy_Extract data from Mauritius" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="587" name="Copy_Copy_Copy_Extract data from Netherlands" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="588" name="Copy_Copy_Copy_Extract data from Panama" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="589" name="Copy_Copy_Copy_Extract data from Seychelles" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="590" name="Copy_Copy_Copy_Extract data from Singapore" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="591" name="Copy_Copy_Copy_Extract data from Switzerland" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="592" name="Copy_Copy_Copy_Extract data fom UAE Dubai" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+            <task id="593" name="Copy_Copy_Copy_Extract data from UAE RAK" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
+        </task>
         <task id="289" name="Extract data from banks of each tax haven" color="#8cb6ce" meeting="false" start="2018-05-10" duration="21" complete="37" thirdDate="2018-05-10" thirdDate-constraint="0" expand="false">
             <task id="486" name="Extract data from Andorra" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-05-24" thirdDate-constraint="0" expand="true"/>
             <task id="487" name="Extract data from Bahamas" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-05-24" thirdDate-constraint="0" expand="true"/>
@@ -189,35 +218,6 @@
             <task id="512" name="Copy_Copy_Extract data from UAE RAK" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
         </task>
         <task id="975" name="List the fees for each bank" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-06-06" thirdDate-constraint="0" expand="true"/>
-        <task id="294" name="Describe each step to open a company in each tax haven" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="false">
-            <task id="567" name="Copy_Copy_Copy_Extract data from Andorra" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="568" name="Copy_Copy_Copy_Extract data from Bahamas" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="569" name="Copy_Copy_Copy_Extract data from Barbados" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="570" name="Copy_Copy_Copy_Extract data from Belize" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="571" name="Copy_Copy_Copy_Extract data from Bermuda" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="572" name="Copy_Copy_Copy_Extract data from BVI" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="573" name="Copy_Copy_Copy_Extract data from Cayman Islands" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="574" name="Copy_Copy_Copy_Extract data from Cyprus" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="575" name="Copy_Copy_Copy_Extract data from Egypt" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="576" name="Copy_Copy_Copy_Extract data from Gilbraltar" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="577" name="Copy_Copy_Copy_Extract data from Guernsey" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="578" name="Copy_Copy_Copy_Extract data from Hong Kong" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="579" name="Copy_Copy_Copy_Extract data from Ireland" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="580" name="Copy_Copy_Copy_Extract data from Isle of Man" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="581" name="Copy_Copy_Copy_Extract data from Jersey" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="582" name="Copy_Copy_Copy_Extract data from Liechtenstein" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="583" name="Copy_Copy_Copy_Extract data from Lithuania" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="584" name="Copy_Copy_Copy_Extract data from Luxembourg" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="585" name="Copy_Copy_Copy_Extract data from Malta" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="586" name="Copy_Copy_Copy_Extract data from Mauritius" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="587" name="Copy_Copy_Copy_Extract data from Netherlands" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="588" name="Copy_Copy_Copy_Extract data from Panama" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="589" name="Copy_Copy_Copy_Extract data from Seychelles" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="590" name="Copy_Copy_Copy_Extract data from Singapore" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="591" name="Copy_Copy_Copy_Extract data from Switzerland" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="592" name="Copy_Copy_Copy_Extract data fom UAE Dubai" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-            <task id="593" name="Copy_Copy_Copy_Extract data from UAE RAK" color="#33ff33" meeting="false" start="2018-05-10" duration="1" complete="100" thirdDate="2018-05-10" thirdDate-constraint="0" expand="true"/>
-        </task>
         <task id="594" name="Download each company law" color="#33ff33" meeting="false" start="2018-05-24" duration="1" complete="100" thirdDate="2018-05-24" thirdDate-constraint="0" expand="false">
             <task id="649" name="Extract data from Andorra" color="#33ff33" meeting="false" start="2018-05-24" duration="1" complete="100" thirdDate="2018-05-24" thirdDate-constraint="0" expand="true"/>
             <task id="650" name="Extract data from Bahamas" color="#33ff33" meeting="false" start="2018-05-24" duration="1" complete="100" thirdDate="2018-05-24" thirdDate-constraint="0" expand="true"/>
@@ -338,7 +338,7 @@
         <task id="972" name="List the tax havens that I can call with Free Mobile" color="#33ff33" meeting="false" start="2018-06-07" duration="1" complete="100" thirdDate="2018-06-06" thirdDate-constraint="0" expand="true"/>
         <task id="973" name="List the corporations which I can open an offshore company online" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-06-06" thirdDate-constraint="0" expand="true"/>
         <task id="976" name="List the lowest temperature for each tax haven" color="#33ff33" meeting="false" start="2018-06-07" duration="1" complete="100" thirdDate="2018-06-06" thirdDate-constraint="0" expand="true"/>
-        <task id="978" name="List the addresses of each monetary authoristies for each tax haven" meeting="false" start="2018-06-07" duration="1" complete="0" expand="true"/>
+        <task id="978" name="List the addresses of each monetary authoristies for each tax haven" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-06-07" thirdDate-constraint="0" expand="true"/>
         <task id="979" name="Collect data into MySQL VPS SSD 1" color="#8cb6ce" meeting="false" start="2018-10-04" duration="1" complete="0" thirdDate="2018-06-07" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources/>
