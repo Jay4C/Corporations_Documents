@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-05-20" view-index="0" gantt-divider-location="771" resource-divider-location="300" version="2.8.11" locale="fr">
+<?xml version="1.0" encoding="UTF-8"?><project name="Untitled Gantt Project" company="" webLink="http://" view-date="2020-05-20" view-index="0" gantt-divider-location="771" resource-divider-location="300" version="3.0.3005" locale="fr_FR">
     <description/>
     <view zooming-state="default:2" id="gantt-chart">
         <field id="tpd3" name="Nom" width="518" order="0"/>
         <field id="tpd4" name="Date de début" width="115" order="1"/>
         <field id="tpd5" name="Date de fin" width="134" order="2"/>
-        <option id="color.recent"><![CDATA[#f4f4f4 #33ff33 #ff3333]]></option>
+        <option id="color.recent">
+            <![CDATA[#f4f4f4 #33ff33 #ff3333]]>
+        </option>
     </view>
     <view id="resource-table">
         <field id="0" name="Nom" width="210" order="0"/>
@@ -339,7 +341,6 @@
         <task id="973" name="List the corporations which I can open an offshore company online" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-06-06" thirdDate-constraint="0" expand="true"/>
         <task id="976" name="List the lowest temperature for each tax haven" color="#33ff33" meeting="false" start="2018-06-07" duration="1" complete="100" thirdDate="2018-06-06" thirdDate-constraint="0" expand="true"/>
         <task id="978" name="List the addresses of each monetary authoristies for each tax haven" color="#8cb6ce" meeting="false" start="2018-06-07" duration="1" complete="0" thirdDate="2018-06-07" thirdDate-constraint="0" expand="true"/>
-        <task id="979" name="Collect data into MySQL VPS SSD 1" color="#8cb6ce" meeting="false" start="2018-10-04" duration="1" complete="0" thirdDate="2018-06-07" thirdDate-constraint="0" expand="true"/>
     </tasks>
     <resources/>
     <allocations/>
